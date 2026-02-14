@@ -102,7 +102,7 @@ npm run preview
 
 ## API Integration
 
-This project uses the [Pixabay API](https://pixabay.com/api/) to fetch free-to-use images. You'll need to register for an API key to run this project.
+This project uses the [Pixabay API](https://pixabay.com/api/docs/) to fetch free-to-use images. You'll need to register for an API key to run this project.
 
 ## License
 
